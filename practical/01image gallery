@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1 style="text-align: center;">image gallery</h1>
+    <img src="gg1.jpg" height="200px" width="200px">
+    <img src="gg2.jpg" height="200px" width="200px">
+    <img src="gg3.jpg" height="200px" width="200px">
+    <img src="gg4.jpg" height="200px" width="200px">
+    <img src="gg5.jpg" height="200px" width="200px">
+    <br>
+     <img src="gg6.jpg" height="200px" width="200px">
+     <img src="gg7.jpg" height="200px" width="200px">
+     <img src="gg8.jpg" height="200px" width="200px">
+     <img src="gg9.jpg" height="200px" width="200px">
+     <img src="gg10.jpg" height="200px" width="200px">
+</body>
+</html>
